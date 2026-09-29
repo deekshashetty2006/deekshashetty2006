@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**deekshashetty2006/deekshashetty2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Deeksha R Shetty! 
 
-Here are some ideas to get you started:
+🎓 Electronics and Communication Engineering Student  
+🏫 MITE (Mangalore Institute of Technology & Engineering)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+
+- 👩‍💻 I'm an ECE student passionate about technology and innovation.
+- 🌱 Currently learning Python, C programming, and Embedded Systems.
+- 🔌 Interested in Electronics, IoT, and VLSI.
+- 💡 I love exploring new technologies and learning new skills.
+- 🦋 I believe in growing, learning, and spreading positivity.
+
+## 🛠️ Languages & Technologies
+
+- Python
+- C Programming
+- Digital Electronics
+- Embedded Systems
+- IoT
+
+## 🎯 My Goals
+
+- Improve my programming and technical skills.
+- Build interesting projects in electronics and embedded systems.
+- Contribute to open-source projects.
+- Keep learning and growing every day.
+
+## 📫 Connect With Me
+
+- GitHub: [My GitHub Profile](https://github.com/)
+
+---
+
+✨ *"Dream, learn, create, and repeat."* 🦋
+
